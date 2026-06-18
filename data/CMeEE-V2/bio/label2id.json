@@ -1,0 +1,21 @@
+{
+  "O": 0,
+  "B-bod": 1,
+  "I-bod": 2,
+  "B-dep": 3,
+  "I-dep": 4,
+  "B-dis": 5,
+  "I-dis": 6,
+  "B-dru": 7,
+  "I-dru": 8,
+  "B-equ": 9,
+  "I-equ": 10,
+  "B-ite": 11,
+  "I-ite": 12,
+  "B-mic": 13,
+  "I-mic": 14,
+  "B-pro": 15,
+  "I-pro": 16,
+  "B-sym": 17,
+  "I-sym": 18
+}

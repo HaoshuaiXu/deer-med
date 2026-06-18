@@ -1,0 +1,60 @@
+{
+  "sample_size": 1000,
+  "seed": 42,
+  "input_docs": 15023,
+  "sampled_docs": 1000,
+  "input_entities": 46142,
+  "sampled_entities": 3071,
+  "target_entities_per_doc": 3.0714238168142183,
+  "entity_types": [
+    "DNA",
+    "RNA",
+    "cell_line",
+    "cell_type",
+    "protein"
+  ],
+  "l1_distribution_distance": 0.0004601484966184604,
+  "expected_count_distance": 0.0005170777166139312,
+  "distribution": {
+    "DNA": {
+      "count": 512,
+      "proportion": 0.16672093780527517,
+      "target_count": 7689,
+      "target_proportion": 0.16663777036105934,
+      "proportion_delta": 8.316744421582589e-05
+    },
+    "RNA": {
+      "count": 46,
+      "proportion": 0.014978834255942689,
+      "target_count": 695,
+      "target_proportion": 0.015062199297819774,
+      "proportion_delta": -8.336504187708531e-05
+    },
+    "cell_line": {
+      "count": 204,
+      "proportion": 0.06642787365678932,
+      "target_count": 3069,
+      "target_proportion": 0.06651207143166746,
+      "proportion_delta": -8.419777487814195e-05
+    },
+    "cell_type": {
+      "count": 390,
+      "proportion": 0.12699446434386194,
+      "target_count": 5853,
+      "target_proportion": 0.12684755753976854,
+      "proportion_delta": 0.00014690680409340517
+    },
+    "protein": {
+      "count": 1919,
+      "proportion": 0.6248778899381309,
+      "target_count": 28836,
+      "target_proportion": 0.6249404013696849,
+      "proportion_delta": -6.251143155400207e-05
+    }
+  },
+  "dataset": "genia",
+  "source_path": "data/genia_term_corpus/convert/train.json",
+  "output_path": "data/genia_term_corpus/convert/train_sample_stratified_seed-42/1000.json",
+  "sampler_seed": 42,
+  "effective_seed": 42
+}

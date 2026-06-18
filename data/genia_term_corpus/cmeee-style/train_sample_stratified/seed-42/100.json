@@ -1,0 +1,2344 @@
+[
+  {
+    "text": "Furthermore, GRbeta did not antagonize the repressive effects of GRalpha on IL-2 promoter activity .",
+    "entities": [
+      {
+        "start_idx": 13,
+        "end_idx": 19,
+        "type": "protein",
+        "entity": "GRbeta"
+      },
+      {
+        "start_idx": 65,
+        "end_idx": 72,
+        "type": "protein",
+        "entity": "GRalpha"
+      },
+      {
+        "start_idx": 76,
+        "end_idx": 89,
+        "type": "DNA",
+        "entity": "IL-2 promoter"
+      }
+    ]
+  },
+  {
+    "text": "Retinoic acid -induced modulation of IL-2 mRNA production and IL-2 receptor expression on T cells .",
+    "entities": [
+      {
+        "start_idx": 37,
+        "end_idx": 46,
+        "type": "RNA",
+        "entity": "IL-2 mRNA"
+      },
+      {
+        "start_idx": 37,
+        "end_idx": 41,
+        "type": "protein",
+        "entity": "IL-2"
+      },
+      {
+        "start_idx": 90,
+        "end_idx": 97,
+        "type": "cell_type",
+        "entity": "T cells"
+      },
+      {
+        "start_idx": 62,
+        "end_idx": 66,
+        "type": "protein",
+        "entity": "IL-2"
+      }
+    ]
+  },
+  {
+    "text": "In this study we analyzed the T cell receptor(TcR) delta transcripts expressed by CD3-CD16+ cells and we investigated whether these cells expressed the hGATA-3 T cell transcription factor and the recombination-activating gene (RAG)-1 .",
+    "entities": [
+      {
+        "start_idx": 30,
+        "end_idx": 68,
+        "type": "protein",
+        "entity": "T cell receptor(TcR) delta transcripts"
+      },
+      {
+        "start_idx": 82,
+        "end_idx": 97,
+        "type": "cell_line",
+        "entity": "CD3-CD16+ cells"
+      },
+      {
+        "start_idx": 196,
+        "end_idx": 233,
+        "type": "DNA",
+        "entity": "recombination-activating gene (RAG)-1"
+      },
+      {
+        "start_idx": 152,
+        "end_idx": 187,
+        "type": "protein",
+        "entity": "hGATA-3 T cell transcription factor"
+      }
+    ]
+  },
+  {
+    "text": "In this report, we demonstrate that the T cell tropic strain of HIV , LAI , does not replicate in naive CD4 T cells stimulated by cross-linking CD3 and CD28 .",
+    "entities": [
+      {
+        "start_idx": 98,
+        "end_idx": 115,
+        "type": "cell_type",
+        "entity": "naive CD4 T cells"
+      },
+      {
+        "start_idx": 152,
+        "end_idx": 156,
+        "type": "protein",
+        "entity": "CD28"
+      },
+      {
+        "start_idx": 144,
+        "end_idx": 147,
+        "type": "protein",
+        "entity": "CD3"
+      }
+    ]
+  },
+  {
+    "text": "The recently cloned TCL1 gene , also involved in translocations and inversions associated with T-cell proliferations , codes for a 14-kD protein that displays significant homology with p13MTCP1 .",
+    "entities": [
+      {
+        "start_idx": 20,
+        "end_idx": 29,
+        "type": "DNA",
+        "entity": "TCL1 gene"
+      },
+      {
+        "start_idx": 131,
+        "end_idx": 144,
+        "type": "protein",
+        "entity": "14-kD protein"
+      },
+      {
+        "start_idx": 185,
+        "end_idx": 193,
+        "type": "protein",
+        "entity": "p13MTCP1"
+      }
+    ]
+  },
+  {
+    "text": "This was associated with a reduction in endothelial MCP-1 secretion and GRO-alpha immobilization .",
+    "entities": [
+      {
+        "start_idx": 72,
+        "end_idx": 81,
+        "type": "protein",
+        "entity": "GRO-alpha"
+      },
+      {
+        "start_idx": 52,
+        "end_idx": 57,
+        "type": "protein",
+        "entity": "MCP-1"
+      }
+    ]
+  },
+  {
+    "text": "This mutation impairs the promoter activity in erythroid cells by disrupting a binding site for the GATA1 erythroid transcription factor .",
+    "entities": [
+      {
+        "start_idx": 47,
+        "end_idx": 62,
+        "type": "cell_type",
+        "entity": "erythroid cells"
+      },
+      {
+        "start_idx": 79,
+        "end_idx": 91,
+        "type": "DNA",
+        "entity": "binding site"
+      },
+      {
+        "start_idx": 100,
+        "end_idx": 136,
+        "type": "protein",
+        "entity": "GATA1 erythroid transcription factor"
+      }
+    ]
+  },
+  {
+    "text": "Exposing HUVECs to A/R induces an increase in nuclear factor kappaB ( NF-kappaB ) in HUVEC nuclei within 4 hours.",
+    "entities": [
+      {
+        "start_idx": 9,
+        "end_idx": 15,
+        "type": "cell_line",
+        "entity": "HUVECs"
+      },
+      {
+        "start_idx": 70,
+        "end_idx": 79,
+        "type": "protein",
+        "entity": "NF-kappaB"
+      },
+      {
+        "start_idx": 46,
+        "end_idx": 67,
+        "type": "protein",
+        "entity": "nuclear factor kappaB"
+      }
+    ]
+  },
+  {
+    "text": "Calcium/calmodulin-dependent protein kinase II downregulates both calcineurin and protein kinase C -mediated pathways for cytokine gene transcription in human T cells .",
+    "entities": [
+      {
+        "start_idx": 0,
+        "end_idx": 46,
+        "type": "protein",
+        "entity": "Calcium/calmodulin-dependent protein kinase II"
+      },
+      {
+        "start_idx": 122,
+        "end_idx": 130,
+        "type": "protein",
+        "entity": "cytokine"
+      },
+      {
+        "start_idx": 122,
+        "end_idx": 135,
+        "type": "DNA",
+        "entity": "cytokine gene"
+      },
+      {
+        "start_idx": 153,
+        "end_idx": 166,
+        "type": "cell_type",
+        "entity": "human T cells"
+      }
+    ]
+  },
+  {
+    "text": "They also display constitutively high levels of p59fyn and CD3 zeta tyrosine phosphorylation .",
+    "entities": [
+      {
+        "start_idx": 48,
+        "end_idx": 54,
+        "type": "protein",
+        "entity": "p59fyn"
+      },
+      {
+        "start_idx": 59,
+        "end_idx": 67,
+        "type": "protein",
+        "entity": "CD3 zeta"
+      }
+    ]
+  },
+  {
+    "text": "Electrophoretic mobility shift assays revealed three specific protein-DNA complexes formed with sequences of the EBNA2 responsive element .",
+    "entities": [
+      {
+        "start_idx": 113,
+        "end_idx": 118,
+        "type": "protein",
+        "entity": "EBNA2"
+      },
+      {
+        "start_idx": 113,
+        "end_idx": 137,
+        "type": "DNA",
+        "entity": "EBNA2 responsive element"
+      },
+      {
+        "start_idx": 62,
+        "end_idx": 83,
+        "type": "protein",
+        "entity": "protein-DNA complexes"
+      }
+    ]
+  },
+  {
+    "text": "Thus, Smad6 and Smad7 exhibit differential inhibitory effects in bone morphogenetic protein-2- and activin A- mediated signaling in B lineage cells .",
+    "entities": [
+      {
+        "start_idx": 6,
+        "end_idx": 11,
+        "type": "protein",
+        "entity": "Smad6"
+      },
+      {
+        "start_idx": 132,
+        "end_idx": 147,
+        "type": "cell_type",
+        "entity": "B lineage cells"
+      },
+      {
+        "start_idx": 16,
+        "end_idx": 21,
+        "type": "protein",
+        "entity": "Smad7"
+      }
+    ]
+  },
+  {
+    "text": "In a cotransfection assay, the Tax protein of both HTLV-I and HTLV-II specifically activated transcription from the IL-1alpha promoter in an uninfected Jurkat cell line .",
+    "entities": [
+      {
+        "start_idx": 116,
+        "end_idx": 125,
+        "type": "protein",
+        "entity": "IL-1alpha"
+      },
+      {
+        "start_idx": 31,
+        "end_idx": 42,
+        "type": "protein",
+        "entity": "Tax protein"
+      },
+      {
+        "start_idx": 116,
+        "end_idx": 134,
+        "type": "DNA",
+        "entity": "IL-1alpha promoter"
+      },
+      {
+        "start_idx": 141,
+        "end_idx": 168,
+        "type": "cell_line",
+        "entity": "uninfected Jurkat cell line"
+      }
+    ]
+  },
+  {
+    "text": "Nuclear matrix-bound RB was detectable in all cases, indicating that loss of RB is not responsible for decreased class II expression in these lines.",
+    "entities": [
+      {
+        "start_idx": 77,
+        "end_idx": 79,
+        "type": "protein",
+        "entity": "RB"
+      },
+      {
+        "start_idx": 21,
+        "end_idx": 23,
+        "type": "protein",
+        "entity": "RB"
+      }
+    ]
+  },
+  {
+    "text": "Interleukin 10 induced c-fos expression in human B cells by activation of divergent protein kinases .",
+    "entities": [
+      {
+        "start_idx": 74,
+        "end_idx": 99,
+        "type": "protein",
+        "entity": "divergent protein kinases"
+      },
+      {
+        "start_idx": 23,
+        "end_idx": 28,
+        "type": "DNA",
+        "entity": "c-fos"
+      },
+      {
+        "start_idx": 43,
+        "end_idx": 56,
+        "type": "cell_type",
+        "entity": "human B cells"
+      },
+      {
+        "start_idx": 0,
+        "end_idx": 14,
+        "type": "protein",
+        "entity": "Interleukin 10"
+      }
+    ]
+  },
+  {
+    "text": "To address possible mechanisms that could explain this selective activity of c-ErbB , we analyzed the ability of these receptors to activate the different members of the Stat transcription factor family .",
+    "entities": [
+      {
+        "start_idx": 77,
+        "end_idx": 83,
+        "type": "protein",
+        "entity": "c-ErbB"
+      },
+      {
+        "start_idx": 170,
+        "end_idx": 202,
+        "type": "protein",
+        "entity": "Stat transcription factor family"
+      }
+    ]
+  },
+  {
+    "text": "GA-binding protein factors , in concert with the coactivator CREB binding protein/p300 , control the induction of the interleukin 16 promoter in T lymphocytes .",
+    "entities": [
+      {
+        "start_idx": 145,
+        "end_idx": 158,
+        "type": "cell_type",
+        "entity": "T lymphocytes"
+      },
+      {
+        "start_idx": 49,
+        "end_idx": 86,
+        "type": "protein",
+        "entity": "coactivator CREB binding protein/p300"
+      },
+      {
+        "start_idx": 118,
+        "end_idx": 141,
+        "type": "DNA",
+        "entity": "interleukin 16 promoter"
+      },
+      {
+        "start_idx": 0,
+        "end_idx": 26,
+        "type": "protein",
+        "entity": "GA-binding protein factors"
+      }
+    ]
+  },
+  {
+    "text": "BZLF 1 , transiently expressed in R7-57 reporter cells , was the only EBV trans-activator found, sufficient in inducing the viral lytic cycle .",
+    "entities": [
+      {
+        "start_idx": 34,
+        "end_idx": 54,
+        "type": "cell_line",
+        "entity": "R7-57 reporter cells"
+      },
+      {
+        "start_idx": 0,
+        "end_idx": 6,
+        "type": "protein",
+        "entity": "BZLF 1"
+      },
+      {
+        "start_idx": 70,
+        "end_idx": 89,
+        "type": "protein",
+        "entity": "EBV trans-activator"
+      }
+    ]
+  },
+  {
+    "text": "Transcription factor binding sites downstream of the human immunodeficiency virus type 1 transcription start site are important for virus infectivity .",
+    "entities": [
+      {
+        "start_idx": 53,
+        "end_idx": 113,
+        "type": "DNA",
+        "entity": "human immunodeficiency virus type 1 transcription start site"
+      },
+      {
+        "start_idx": 0,
+        "end_idx": 20,
+        "type": "protein",
+        "entity": "Transcription factor"
+      }
+    ]
+  },
+  {
+    "text": "Therefore, we investigated in situ the nuclear localization of Rel/ NF-kappa B proteins in accessory cells of the immune system by immunohistochemistry and double labeling by immunofluorescence from five normal human tonsils and five lymph nodes with follicular hyperplasia .",
+    "entities": [
+      {
+        "start_idx": 68,
+        "end_idx": 78,
+        "type": "protein",
+        "entity": "NF-kappa B"
+      },
+      {
+        "start_idx": 91,
+        "end_idx": 106,
+        "type": "cell_type",
+        "entity": "accessory cells"
+      },
+      {
+        "start_idx": 63,
+        "end_idx": 87,
+        "type": "protein",
+        "entity": "Rel/ NF-kappa B proteins"
+      }
+    ]
+  },
+  {
+    "text": "PKC activation only induced Fas expression in cells expressing wild-type TDAG51 .",
+    "entities": [
+      {
+        "start_idx": 73,
+        "end_idx": 79,
+        "type": "DNA",
+        "entity": "TDAG51"
+      },
+      {
+        "start_idx": 28,
+        "end_idx": 31,
+        "type": "protein",
+        "entity": "Fas"
+      },
+      {
+        "start_idx": 0,
+        "end_idx": 3,
+        "type": "protein",
+        "entity": "PKC"
+      }
+    ]
+  },
+  {
+    "text": "In contrast, no upregulation of the lipoxygenase activity was observed when the macrophages were prepared from homozygous STAT6 -deficient mice .",
+    "entities": [
+      {
+        "start_idx": 122,
+        "end_idx": 127,
+        "type": "protein",
+        "entity": "STAT6"
+      },
+      {
+        "start_idx": 36,
+        "end_idx": 48,
+        "type": "protein",
+        "entity": "lipoxygenase"
+      },
+      {
+        "start_idx": 80,
+        "end_idx": 91,
+        "type": "cell_type",
+        "entity": "macrophages"
+      }
+    ]
+  },
+  {
+    "text": "We have previously found that NFKB2(p49/p52) acts in concert with RelA(p65) to stimulate the HIV enhancer in Jurkat T-leukemia cells .",
+    "entities": [
+      {
+        "start_idx": 116,
+        "end_idx": 132,
+        "type": "cell_line",
+        "entity": "T-leukemia cells"
+      },
+      {
+        "start_idx": 30,
+        "end_idx": 44,
+        "type": "protein",
+        "entity": "NFKB2(p49/p52)"
+      },
+      {
+        "start_idx": 93,
+        "end_idx": 105,
+        "type": "DNA",
+        "entity": "HIV enhancer"
+      },
+      {
+        "start_idx": 66,
+        "end_idx": 75,
+        "type": "protein",
+        "entity": "RelA(p65)"
+      }
+    ]
+  },
+  {
+    "text": "The E1A and hexon primers amplified DNA from representative adenoviral serotypes in all six adenoviral groups (A-F).",
+    "entities": [
+      {
+        "start_idx": 4,
+        "end_idx": 7,
+        "type": "protein",
+        "entity": "E1A"
+      },
+      {
+        "start_idx": 12,
+        "end_idx": 17,
+        "type": "protein",
+        "entity": "hexon"
+      }
+    ]
+  },
+  {
+    "text": "These results suggest that underlying aberrancies in the induction of c-fos/c-jun as well as their nuclear regulatory proteins may contribute to the age-related impairments of AP-1 activation in human T cells .",
+    "entities": [
+      {
+        "start_idx": 99,
+        "end_idx": 126,
+        "type": "protein",
+        "entity": "nuclear regulatory proteins"
+      },
+      {
+        "start_idx": 176,
+        "end_idx": 180,
+        "type": "protein",
+        "entity": "AP-1"
+      },
+      {
+        "start_idx": 195,
+        "end_idx": 208,
+        "type": "cell_type",
+        "entity": "human T cells"
+      },
+      {
+        "start_idx": 70,
+        "end_idx": 81,
+        "type": "DNA",
+        "entity": "c-fos/c-jun"
+      }
+    ]
+  },
+  {
+    "text": "Interleukin 2 and T cell antigen receptor signals converge upon serine 727 .",
+    "entities": [
+      {
+        "start_idx": 0,
+        "end_idx": 13,
+        "type": "protein",
+        "entity": "Interleukin 2"
+      },
+      {
+        "start_idx": 18,
+        "end_idx": 41,
+        "type": "protein",
+        "entity": "T cell antigen receptor"
+      }
+    ]
+  },
+  {
+    "text": "These two abnormalities at the NF-AT site provide a potential mechanism to account for the defect in IL-2 production from Ipr CD4-8- T cells .",
+    "entities": [
+      {
+        "start_idx": 133,
+        "end_idx": 140,
+        "type": "cell_type",
+        "entity": "T cells"
+      },
+      {
+        "start_idx": 31,
+        "end_idx": 41,
+        "type": "DNA",
+        "entity": "NF-AT site"
+      },
+      {
+        "start_idx": 122,
+        "end_idx": 140,
+        "type": "cell_line",
+        "entity": "Ipr CD4-8- T cells"
+      },
+      {
+        "start_idx": 101,
+        "end_idx": 105,
+        "type": "protein",
+        "entity": "IL-2"
+      },
+      {
+        "start_idx": 31,
+        "end_idx": 36,
+        "type": "protein",
+        "entity": "NF-AT"
+      }
+    ]
+  },
+  {
+    "text": "These ROI -induced effects can, to a large extent, be attributed to the activation of the transcription factor NF-kappaB .",
+    "entities": [
+      {
+        "start_idx": 90,
+        "end_idx": 110,
+        "type": "protein",
+        "entity": "transcription factor"
+      },
+      {
+        "start_idx": 111,
+        "end_idx": 120,
+        "type": "protein",
+        "entity": "NF-kappaB"
+      }
+    ]
+  },
+  {
+    "text": "CD40 -mediated fra-1 induction did require tyrosine kinase activity .",
+    "entities": [
+      {
+        "start_idx": 43,
+        "end_idx": 58,
+        "type": "protein",
+        "entity": "tyrosine kinase"
+      },
+      {
+        "start_idx": 15,
+        "end_idx": 20,
+        "type": "DNA",
+        "entity": "fra-1"
+      },
+      {
+        "start_idx": 0,
+        "end_idx": 4,
+        "type": "protein",
+        "entity": "CD40"
+      }
+    ]
+  },
+  {
+    "text": "For this purpose, 81 pentadecamer peptides covering the complete 491-amino-acid sequence of IE-1 were tested on peripheral blood mononuclear cells of anti- HCMV immunoglobulin G-seropositive donors .",
+    "entities": [
+      {
+        "start_idx": 92,
+        "end_idx": 96,
+        "type": "protein",
+        "entity": "IE-1"
+      },
+      {
+        "start_idx": 65,
+        "end_idx": 88,
+        "type": "protein",
+        "entity": "491-amino-acid sequence"
+      },
+      {
+        "start_idx": 112,
+        "end_idx": 146,
+        "type": "cell_type",
+        "entity": "peripheral blood mononuclear cells"
+      }
+    ]
+  },
+  {
+    "text": "In contrast, TPCK and TLCK did not block induction of an immediate-early gene encoding the transcription factor , Egr-1 .",
+    "entities": [
+      {
+        "start_idx": 114,
+        "end_idx": 119,
+        "type": "protein",
+        "entity": "Egr-1"
+      },
+      {
+        "start_idx": 91,
+        "end_idx": 111,
+        "type": "protein",
+        "entity": "transcription factor"
+      },
+      {
+        "start_idx": 57,
+        "end_idx": 77,
+        "type": "DNA",
+        "entity": "immediate-early gene"
+      }
+    ]
+  },
+  {
+    "text": "We propose that growth inhibition of established B cell lymphoma lines is a novel function of EBNA2 which has not been detected in the absence of an inducible system .",
+    "entities": [
+      {
+        "start_idx": 94,
+        "end_idx": 99,
+        "type": "protein",
+        "entity": "EBNA2"
+      },
+      {
+        "start_idx": 49,
+        "end_idx": 70,
+        "type": "cell_line",
+        "entity": "B cell lymphoma lines"
+      }
+    ]
+  },
+  {
+    "text": "Signaling in B cells due to anti-Ig stimulation involves both kinase C activation and release of intracellular calcium , and results in c-fos mRNA induction .",
+    "entities": [
+      {
+        "start_idx": 136,
+        "end_idx": 141,
+        "type": "DNA",
+        "entity": "c-fos"
+      },
+      {
+        "start_idx": 13,
+        "end_idx": 20,
+        "type": "cell_type",
+        "entity": "B cells"
+      },
+      {
+        "start_idx": 28,
+        "end_idx": 35,
+        "type": "protein",
+        "entity": "anti-Ig"
+      },
+      {
+        "start_idx": 62,
+        "end_idx": 70,
+        "type": "protein",
+        "entity": "kinase C"
+      },
+      {
+        "start_idx": 136,
+        "end_idx": 146,
+        "type": "RNA",
+        "entity": "c-fos mRNA"
+      }
+    ]
+  },
+  {
+    "text": "Although CD40 lacks intrinsic tyrosine kinase activity, its ligation induces protein tyrosine phosphorylation , which is necessary for several CD40 -mediated events .",
+    "entities": [
+      {
+        "start_idx": 143,
+        "end_idx": 147,
+        "type": "protein",
+        "entity": "CD40"
+      },
+      {
+        "start_idx": 9,
+        "end_idx": 13,
+        "type": "protein",
+        "entity": "CD40"
+      }
+    ]
+  },
+  {
+    "text": "To address potential mechanisms by which estrogens suppress erythropoiesis , we have examined their effects on GATA-1 , an erythroid transcription factor that participates in the regulation of the majority of erythroid cell-specific genes and is necessary for full maturation of erythrocytes .",
+    "entities": [
+      {
+        "start_idx": 279,
+        "end_idx": 291,
+        "type": "cell_type",
+        "entity": "erythrocytes"
+      },
+      {
+        "start_idx": 123,
+        "end_idx": 153,
+        "type": "protein",
+        "entity": "erythroid transcription factor"
+      },
+      {
+        "start_idx": 111,
+        "end_idx": 117,
+        "type": "protein",
+        "entity": "GATA-1"
+      },
+      {
+        "start_idx": 209,
+        "end_idx": 238,
+        "type": "DNA",
+        "entity": "erythroid cell-specific genes"
+      }
+    ]
+  },
+  {
+    "text": "The role of Rel/ NF-kappa B proteins in viral oncogenesis and the regulation of viral transcription .",
+    "entities": [
+      {
+        "start_idx": 17,
+        "end_idx": 27,
+        "type": "protein",
+        "entity": "NF-kappa B"
+      },
+      {
+        "start_idx": 12,
+        "end_idx": 36,
+        "type": "protein",
+        "entity": "Rel/ NF-kappa B proteins"
+      }
+    ]
+  },
+  {
+    "text": "The expression of hGATA-3 , a T cell-specific factor known to be involved in the regulation of the transcription of TcR delta locus , was analyzed by Northern blot , in cultured NK cell population and clones (but not in freshly derived cell populations).",
+    "entities": [
+      {
+        "start_idx": 30,
+        "end_idx": 52,
+        "type": "protein",
+        "entity": "T cell-specific factor"
+      },
+      {
+        "start_idx": 116,
+        "end_idx": 131,
+        "type": "DNA",
+        "entity": "TcR delta locus"
+      },
+      {
+        "start_idx": 18,
+        "end_idx": 25,
+        "type": "protein",
+        "entity": "hGATA-3"
+      },
+      {
+        "start_idx": 178,
+        "end_idx": 196,
+        "type": "cell_line",
+        "entity": "NK cell population"
+      }
+    ]
+  },
+  {
+    "text": "Dominant cytotoxic T lymphocyte response to the immediate-early trans-activator protein , BZLF1 , in persistent type A or B Epstein-Barr virus infection .",
+    "entities": [
+      {
+        "start_idx": 9,
+        "end_idx": 31,
+        "type": "cell_type",
+        "entity": "cytotoxic T lymphocyte"
+      },
+      {
+        "start_idx": 48,
+        "end_idx": 87,
+        "type": "protein",
+        "entity": "immediate-early trans-activator protein"
+      },
+      {
+        "start_idx": 90,
+        "end_idx": 95,
+        "type": "protein",
+        "entity": "BZLF1"
+      }
+    ]
+  },
+  {
+    "text": "Activation of the erythropoietin receptor caused specific DNA-binding of Stat 5b , but failed to induce reporter gene transcription .",
+    "entities": [
+      {
+        "start_idx": 73,
+        "end_idx": 80,
+        "type": "protein",
+        "entity": "Stat 5b"
+      },
+      {
+        "start_idx": 104,
+        "end_idx": 117,
+        "type": "DNA",
+        "entity": "reporter gene"
+      },
+      {
+        "start_idx": 18,
+        "end_idx": 41,
+        "type": "protein",
+        "entity": "erythropoietin receptor"
+      }
+    ]
+  },
+  {
+    "text": "We demonstrate here that the biological effect of PNU156804 in vitro is indistinguishable from UP : PNU156804 blocks human T cell proliferation in mid-late G1 , as determined by cell cycle analysis , expression of cyclins , and cyclin-dependent kinases and retinoblastoma phosphorylation .",
+    "entities": [
+      {
+        "start_idx": 214,
+        "end_idx": 221,
+        "type": "protein",
+        "entity": "cyclins"
+      },
+      {
+        "start_idx": 228,
+        "end_idx": 252,
+        "type": "protein",
+        "entity": "cyclin-dependent kinases"
+      },
+      {
+        "start_idx": 117,
+        "end_idx": 129,
+        "type": "cell_type",
+        "entity": "human T cell"
+      }
+    ]
+  },
+  {
+    "text": "Human T-cell leukemia virus type I Tax associates with and is negatively regulated by the NF-kappa B2 p100 gene product : implications for viral latency.",
+    "entities": [
+      {
+        "start_idx": 35,
+        "end_idx": 38,
+        "type": "protein",
+        "entity": "Tax"
+      },
+      {
+        "start_idx": 90,
+        "end_idx": 119,
+        "type": "protein",
+        "entity": "NF-kappa B2 p100 gene product"
+      },
+      {
+        "start_idx": 90,
+        "end_idx": 111,
+        "type": "DNA",
+        "entity": "NF-kappa B2 p100 gene"
+      }
+    ]
+  },
+  {
+    "text": "Pax-5a was detectable in pro- , pre- , and mature B-cell lines , but not in two plasmacytomas ; Pax-5b was shown to be present at low levels in mature B-cell lines and, unexpectedly, in one plasma cell line, but not in pro-B-cell or T-cell lines .",
+    "entities": [
+      {
+        "start_idx": 0,
+        "end_idx": 6,
+        "type": "protein",
+        "entity": "Pax-5a"
+      },
+      {
+        "start_idx": 96,
+        "end_idx": 102,
+        "type": "protein",
+        "entity": "Pax-5b"
+      },
+      {
+        "start_idx": 144,
+        "end_idx": 163,
+        "type": "cell_line",
+        "entity": "mature B-cell lines"
+      }
+    ]
+  },
+  {
+    "text": "This segment functions as an IL-2-inducible enhancer and lies within a region that becomes DNase I hypersensitive in normal T cells in which IL-2R alpha expression has been induced.",
+    "entities": [
+      {
+        "start_idx": 91,
+        "end_idx": 98,
+        "type": "protein",
+        "entity": "DNase I"
+      },
+      {
+        "start_idx": 29,
+        "end_idx": 52,
+        "type": "DNA",
+        "entity": "IL-2-inducible enhancer"
+      },
+      {
+        "start_idx": 141,
+        "end_idx": 152,
+        "type": "protein",
+        "entity": "IL-2R alpha"
+      },
+      {
+        "start_idx": 124,
+        "end_idx": 131,
+        "type": "cell_type",
+        "entity": "T cells"
+      }
+    ]
+  },
+  {
+    "text": "The predicted HB9 protein has a molecular mass of 41 kilodaltons and is enriched for alanine , glycine , and leucine .",
+    "entities": [
+      {
+        "start_idx": 14,
+        "end_idx": 17,
+        "type": "DNA",
+        "entity": "HB9"
+      },
+      {
+        "start_idx": 14,
+        "end_idx": 25,
+        "type": "protein",
+        "entity": "HB9 protein"
+      }
+    ]
+  },
+  {
+    "text": "Taken together, these data suggest that EBF and E47 synergize to activate expression of a subset of genes that define an early stage of the B cell lineage .",
+    "entities": [
+      {
+        "start_idx": 140,
+        "end_idx": 154,
+        "type": "cell_type",
+        "entity": "B cell lineage"
+      },
+      {
+        "start_idx": 48,
+        "end_idx": 51,
+        "type": "protein",
+        "entity": "E47"
+      },
+      {
+        "start_idx": 40,
+        "end_idx": 43,
+        "type": "protein",
+        "entity": "EBF"
+      }
+    ]
+  },
+  {
+    "text": "The ability of RFX1 to transactivate the core promoter raises the possibility that RFX1 may play a dual role in regulating HBV gene expression",
+    "entities": [
+      {
+        "start_idx": 15,
+        "end_idx": 19,
+        "type": "protein",
+        "entity": "RFX1"
+      },
+      {
+        "start_idx": 41,
+        "end_idx": 54,
+        "type": "DNA",
+        "entity": "core promoter"
+      },
+      {
+        "start_idx": 83,
+        "end_idx": 87,
+        "type": "protein",
+        "entity": "RFX1"
+      }
+    ]
+  },
+  {
+    "text": "Expression of BHRF1 in MCF-Fas cells conferred nearly complete resistance against both anti-Fas antibody and TNF-mediated apoptosis .",
+    "entities": [
+      {
+        "start_idx": 87,
+        "end_idx": 104,
+        "type": "protein",
+        "entity": "anti-Fas antibody"
+      },
+      {
+        "start_idx": 14,
+        "end_idx": 19,
+        "type": "protein",
+        "entity": "BHRF1"
+      },
+      {
+        "start_idx": 23,
+        "end_idx": 36,
+        "type": "cell_line",
+        "entity": "MCF-Fas cells"
+      }
+    ]
+  },
+  {
+    "text": "NF-kappa B is a transcription factor involved in the regulation of the HIV long terminal repeat and is selectively activated following HIV infection of human macrophages .",
+    "entities": [
+      {
+        "start_idx": 16,
+        "end_idx": 36,
+        "type": "protein",
+        "entity": "transcription factor"
+      },
+      {
+        "start_idx": 152,
+        "end_idx": 169,
+        "type": "cell_type",
+        "entity": "human macrophages"
+      },
+      {
+        "start_idx": 71,
+        "end_idx": 95,
+        "type": "DNA",
+        "entity": "HIV long terminal repeat"
+      },
+      {
+        "start_idx": 0,
+        "end_idx": 10,
+        "type": "protein",
+        "entity": "NF-kappa B"
+      }
+    ]
+  },
+  {
+    "text": "In some patients, no activation of RelA/NFkappaB1 -binding activity was detectable, while in others kappaB -binding activity was modestly induced but the duration was reduced.",
+    "entities": [
+      {
+        "start_idx": 35,
+        "end_idx": 49,
+        "type": "protein",
+        "entity": "RelA/NFkappaB1"
+      },
+      {
+        "start_idx": 100,
+        "end_idx": 106,
+        "type": "protein",
+        "entity": "kappaB"
+      }
+    ]
+  },
+  {
+    "text": "The increase in LT-293 CAT activity mirrored the increase in LT biologic activity seen under these conditions.",
+    "entities": [
+      {
+        "start_idx": 61,
+        "end_idx": 63,
+        "type": "protein",
+        "entity": "LT"
+      },
+      {
+        "start_idx": 16,
+        "end_idx": 22,
+        "type": "DNA",
+        "entity": "LT-293"
+      },
+      {
+        "start_idx": 23,
+        "end_idx": 26,
+        "type": "protein",
+        "entity": "CAT"
+      }
+    ]
+  },
+  {
+    "text": "STAT3 is a serine kinase target in T lymphocytes .",
+    "entities": [
+      {
+        "start_idx": 0,
+        "end_idx": 5,
+        "type": "protein",
+        "entity": "STAT3"
+      },
+      {
+        "start_idx": 11,
+        "end_idx": 31,
+        "type": "protein",
+        "entity": "serine kinase target"
+      },
+      {
+        "start_idx": 35,
+        "end_idx": 48,
+        "type": "cell_type",
+        "entity": "T lymphocytes"
+      }
+    ]
+  },
+  {
+    "text": "Second, in contrast to recent results on human cell lines , CIITA is not critically involved in the IFN-gamma -induced up-regulation of MHC class I genes .",
+    "entities": [
+      {
+        "start_idx": 41,
+        "end_idx": 57,
+        "type": "cell_line",
+        "entity": "human cell lines"
+      },
+      {
+        "start_idx": 60,
+        "end_idx": 65,
+        "type": "protein",
+        "entity": "CIITA"
+      },
+      {
+        "start_idx": 100,
+        "end_idx": 109,
+        "type": "protein",
+        "entity": "IFN-gamma"
+      },
+      {
+        "start_idx": 136,
+        "end_idx": 153,
+        "type": "DNA",
+        "entity": "MHC class I genes"
+      }
+    ]
+  },
+  {
+    "text": "A family of serine proteases expressed exclusively in myelo- monocytic cells specifically processes the nuclear factor-kappa B subunit p65 in vitro and may impair human immunodeficiency virus replication in these cells.",
+    "entities": [
+      {
+        "start_idx": 104,
+        "end_idx": 138,
+        "type": "protein",
+        "entity": "nuclear factor-kappa B subunit p65"
+      },
+      {
+        "start_idx": 12,
+        "end_idx": 28,
+        "type": "protein",
+        "entity": "serine proteases"
+      },
+      {
+        "start_idx": 61,
+        "end_idx": 76,
+        "type": "cell_type",
+        "entity": "monocytic cells"
+      }
+    ]
+  },
+  {
+    "text": "Cell hemoglobinization was accompanied by the increased expression of genes encoding gamma-globin and porphobilinogen deaminase ( PBGD ), an enzyme of heme synthesis .",
+    "entities": [
+      {
+        "start_idx": 70,
+        "end_idx": 75,
+        "type": "DNA",
+        "entity": "genes"
+      },
+      {
+        "start_idx": 130,
+        "end_idx": 134,
+        "type": "protein",
+        "entity": "PBGD"
+      },
+      {
+        "start_idx": 85,
+        "end_idx": 127,
+        "type": "protein",
+        "entity": "gamma-globin and porphobilinogen deaminase"
+      }
+    ]
+  },
+  {
+    "text": "Both TPCK and TLCK inhibited LPS induction of TF protein , TF mRNA and TF promoter activity in a dose-dependent manner .",
+    "entities": [
+      {
+        "start_idx": 71,
+        "end_idx": 73,
+        "type": "protein",
+        "entity": "TF"
+      },
+      {
+        "start_idx": 59,
+        "end_idx": 66,
+        "type": "RNA",
+        "entity": "TF mRNA"
+      },
+      {
+        "start_idx": 46,
+        "end_idx": 56,
+        "type": "protein",
+        "entity": "TF protein"
+      }
+    ]
+  },
+  {
+    "text": "Unexpectedly, the CD4 silencer is also active in CD4+ CD8int/- cells of the thymus , implying that an anti-silencer may be required to resume CD4 expression in this cell population.",
+    "entities": [
+      {
+        "start_idx": 49,
+        "end_idx": 68,
+        "type": "cell_type",
+        "entity": "CD4+ CD8int/- cells"
+      },
+      {
+        "start_idx": 142,
+        "end_idx": 145,
+        "type": "protein",
+        "entity": "CD4"
+      },
+      {
+        "start_idx": 18,
+        "end_idx": 30,
+        "type": "DNA",
+        "entity": "CD4 silencer"
+      }
+    ]
+  },
+  {
+    "text": "Overexpression of full-length SCL protein in the lymphoid cell lines , SupT1 and Raji , did not alter cell phenotype and there was no evidence for autoregulation of SCL transcription .",
+    "entities": [
+      {
+        "start_idx": 165,
+        "end_idx": 168,
+        "type": "protein",
+        "entity": "SCL"
+      },
+      {
+        "start_idx": 49,
+        "end_idx": 68,
+        "type": "cell_line",
+        "entity": "lymphoid cell lines"
+      },
+      {
+        "start_idx": 30,
+        "end_idx": 41,
+        "type": "protein",
+        "entity": "SCL protein"
+      }
+    ]
+  },
+  {
+    "text": "It has been reported that PKC is an effector of p21ras in T cells .",
+    "entities": [
+      {
+        "start_idx": 58,
+        "end_idx": 65,
+        "type": "cell_type",
+        "entity": "T cells"
+      },
+      {
+        "start_idx": 36,
+        "end_idx": 44,
+        "type": "protein",
+        "entity": "effector"
+      },
+      {
+        "start_idx": 48,
+        "end_idx": 54,
+        "type": "DNA",
+        "entity": "p21ras"
+      },
+      {
+        "start_idx": 26,
+        "end_idx": 29,
+        "type": "protein",
+        "entity": "PKC"
+      }
+    ]
+  },
+  {
+    "text": "Inhibitory effect of E3330 , a novel quinone derivative able to suppress tumor necrosis factor-alpha generation , on activation of nuclear factor-kappa B .",
+    "entities": [
+      {
+        "start_idx": 73,
+        "end_idx": 100,
+        "type": "protein",
+        "entity": "tumor necrosis factor-alpha"
+      },
+      {
+        "start_idx": 131,
+        "end_idx": 153,
+        "type": "protein",
+        "entity": "nuclear factor-kappa B"
+      }
+    ]
+  },
+  {
+    "text": "A cdk2 inhibitor , Olomoucine , as well as a dominant-negative cdk2 construct prevented HLA class I -mediated inactivation of Rb ; in contrast, dominant-negative cdk4 and cdk6 constructs had no effect.",
+    "entities": [
+      {
+        "start_idx": 126,
+        "end_idx": 128,
+        "type": "protein",
+        "entity": "Rb"
+      },
+      {
+        "start_idx": 45,
+        "end_idx": 77,
+        "type": "DNA",
+        "entity": "dominant-negative cdk2 construct"
+      },
+      {
+        "start_idx": 88,
+        "end_idx": 99,
+        "type": "protein",
+        "entity": "HLA class I"
+      }
+    ]
+  },
+  {
+    "text": "A trace element preparation ( Beres Drops Plus , BDP ) elevates the number of glucocorticoid receptors ( gcR ) in peripheral lymphocytes isolated both from healthy blood donors and rheumatoid arthritis patients .",
+    "entities": [
+      {
+        "start_idx": 114,
+        "end_idx": 136,
+        "type": "cell_type",
+        "entity": "peripheral lymphocytes"
+      },
+      {
+        "start_idx": 78,
+        "end_idx": 102,
+        "type": "protein",
+        "entity": "glucocorticoid receptors"
+      },
+      {
+        "start_idx": 105,
+        "end_idx": 108,
+        "type": "protein",
+        "entity": "gcR"
+      }
+    ]
+  },
+  {
+    "text": "A stable transformant of the PLAP reporter gene derived from human monocytic cell line showed very little activity on the promoter before stimulation, whereas LPS stimulation led to a dramatic increase in PLAP activity .",
+    "entities": [
+      {
+        "start_idx": 29,
+        "end_idx": 47,
+        "type": "DNA",
+        "entity": "PLAP reporter gene"
+      },
+      {
+        "start_idx": 61,
+        "end_idx": 86,
+        "type": "cell_line",
+        "entity": "human monocytic cell line"
+      },
+      {
+        "start_idx": 29,
+        "end_idx": 33,
+        "type": "protein",
+        "entity": "PLAP"
+      },
+      {
+        "start_idx": 205,
+        "end_idx": 209,
+        "type": "protein",
+        "entity": "PLAP"
+      }
+    ]
+  },
+  {
+    "text": "Our studies reported here demonstrate that GATA-3 is critical for expression of the IL-5 gene in bona fide Th2 cells .",
+    "entities": [
+      {
+        "start_idx": 84,
+        "end_idx": 88,
+        "type": "protein",
+        "entity": "IL-5"
+      },
+      {
+        "start_idx": 43,
+        "end_idx": 49,
+        "type": "protein",
+        "entity": "GATA-3"
+      },
+      {
+        "start_idx": 97,
+        "end_idx": 116,
+        "type": "cell_type",
+        "entity": "bona fide Th2 cells"
+      }
+    ]
+  },
+  {
+    "text": "We describe an enhancer site in the third intron of tumor necrosis factor alpha ( TNF-alpha ).",
+    "entities": [
+      {
+        "start_idx": 52,
+        "end_idx": 79,
+        "type": "protein",
+        "entity": "tumor necrosis factor alpha"
+      },
+      {
+        "start_idx": 82,
+        "end_idx": 91,
+        "type": "protein",
+        "entity": "TNF-alpha"
+      },
+      {
+        "start_idx": 36,
+        "end_idx": 48,
+        "type": "DNA",
+        "entity": "third intron"
+      }
+    ]
+  },
+  {
+    "text": "These findings establish a spectrum of binding site-specific transcriptional properties for E2A- HLF which may preferentially activate expression of select subordinate genes as a homodimer and potentially antagonize expression of others through heteromeric interactions .",
+    "entities": [
+      {
+        "start_idx": 92,
+        "end_idx": 100,
+        "type": "protein",
+        "entity": "E2A- HLF"
+      },
+      {
+        "start_idx": 97,
+        "end_idx": 100,
+        "type": "protein",
+        "entity": "HLF"
+      }
+    ]
+  },
+  {
+    "text": "The relative low binding affinity of cleavage stimulation factor CstF-64 to the proximal polyA site seems to contribute to its neglect in naive T cells .",
+    "entities": [
+      {
+        "start_idx": 80,
+        "end_idx": 99,
+        "type": "DNA",
+        "entity": "proximal polyA site"
+      },
+      {
+        "start_idx": 138,
+        "end_idx": 151,
+        "type": "cell_type",
+        "entity": "naive T cells"
+      },
+      {
+        "start_idx": 37,
+        "end_idx": 64,
+        "type": "protein",
+        "entity": "cleavage stimulation factor"
+      },
+      {
+        "start_idx": 65,
+        "end_idx": 72,
+        "type": "protein",
+        "entity": "CstF-64"
+      }
+    ]
+  },
+  {
+    "text": "In contrast, RA alone can induce G1 arrest of UF-1 cells ; however, it did not result in an increase of p21(WAF1/CIP1) and p27(KIP1) transcript and protein expression in RA -resistant cells.",
+    "entities": [
+      {
+        "start_idx": 46,
+        "end_idx": 56,
+        "type": "cell_line",
+        "entity": "UF-1 cells"
+      },
+      {
+        "start_idx": 123,
+        "end_idx": 132,
+        "type": "protein",
+        "entity": "p27(KIP1)"
+      },
+      {
+        "start_idx": 104,
+        "end_idx": 118,
+        "type": "protein",
+        "entity": "p21(WAF1/CIP1)"
+      }
+    ]
+  },
+  {
+    "text": "Thus, Sp1 and Egr-1 physically and functionally cooperate to mediate maximal IL-2Rbeta promoter activity .",
+    "entities": [
+      {
+        "start_idx": 14,
+        "end_idx": 19,
+        "type": "protein",
+        "entity": "Egr-1"
+      },
+      {
+        "start_idx": 77,
+        "end_idx": 95,
+        "type": "DNA",
+        "entity": "IL-2Rbeta promoter"
+      },
+      {
+        "start_idx": 6,
+        "end_idx": 9,
+        "type": "protein",
+        "entity": "Sp1"
+      }
+    ]
+  },
+  {
+    "text": "Priming of human monocytes with IFN-gamma resulted in the down regulation of c-fos and c-jun mRNA in response to stimulation with lipopolysaccharide ( LPS ) compared to the effects of LPS alone.",
+    "entities": [
+      {
+        "start_idx": 32,
+        "end_idx": 41,
+        "type": "protein",
+        "entity": "IFN-gamma"
+      },
+      {
+        "start_idx": 11,
+        "end_idx": 26,
+        "type": "cell_type",
+        "entity": "human monocytes"
+      }
+    ]
+  },
+  {
+    "text": "Activation of the interleukin 6 gene by Mycobacterium tuberculosis or lipopolysaccharide is mediated by nuclear factors NF-IL6 and NF-kappa B [published erratum appears in Proc Natl Acad Sci U S A 1995 Apr 11;92(8):3632]",
+    "entities": [
+      {
+        "start_idx": 131,
+        "end_idx": 141,
+        "type": "protein",
+        "entity": "NF-kappa B"
+      },
+      {
+        "start_idx": 18,
+        "end_idx": 36,
+        "type": "DNA",
+        "entity": "interleukin 6 gene"
+      },
+      {
+        "start_idx": 104,
+        "end_idx": 126,
+        "type": "protein",
+        "entity": "nuclear factors NF-IL6"
+      }
+    ]
+  },
+  {
+    "text": "To understand the action of FGF-1 in T cells , studies were initiated in Jurkat T cells that express the signaling isoform of FGF receptor-1 .",
+    "entities": [
+      {
+        "start_idx": 126,
+        "end_idx": 140,
+        "type": "protein",
+        "entity": "FGF receptor-1"
+      },
+      {
+        "start_idx": 73,
+        "end_idx": 87,
+        "type": "cell_line",
+        "entity": "Jurkat T cells"
+      },
+      {
+        "start_idx": 37,
+        "end_idx": 44,
+        "type": "cell_type",
+        "entity": "T cells"
+      },
+      {
+        "start_idx": 28,
+        "end_idx": 33,
+        "type": "protein",
+        "entity": "FGF-1"
+      }
+    ]
+  },
+  {
+    "text": "Cotransfection experiments revealed that both hGATA-4 and PMA /A23187 stimulation are necessary for the IL-5 promoter activation .",
+    "entities": [
+      {
+        "start_idx": 104,
+        "end_idx": 108,
+        "type": "protein",
+        "entity": "IL-5"
+      },
+      {
+        "start_idx": 104,
+        "end_idx": 117,
+        "type": "DNA",
+        "entity": "IL-5 promoter"
+      },
+      {
+        "start_idx": 46,
+        "end_idx": 53,
+        "type": "protein",
+        "entity": "hGATA-4"
+      }
+    ]
+  },
+  {
+    "text": "Cdk2-dependent phosphorylation therefore provides a switch during late G1-to-S phase that both nullifies an early G1 cell cycle regulatory function of Id3 and modulates its target bHLH specificity .",
+    "entities": [
+      {
+        "start_idx": 180,
+        "end_idx": 184,
+        "type": "protein",
+        "entity": "bHLH"
+      },
+      {
+        "start_idx": 151,
+        "end_idx": 154,
+        "type": "protein",
+        "entity": "Id3"
+      }
+    ]
+  },
+  {
+    "text": "MEK1 and the extracellular signal-regulated kinases are required for the stimulation of IL-2 gene transcription in T cells .",
+    "entities": [
+      {
+        "start_idx": 115,
+        "end_idx": 122,
+        "type": "cell_type",
+        "entity": "T cells"
+      },
+      {
+        "start_idx": 88,
+        "end_idx": 97,
+        "type": "DNA",
+        "entity": "IL-2 gene"
+      },
+      {
+        "start_idx": 13,
+        "end_idx": 51,
+        "type": "protein",
+        "entity": "extracellular signal-regulated kinases"
+      },
+      {
+        "start_idx": 0,
+        "end_idx": 4,
+        "type": "protein",
+        "entity": "MEK1"
+      }
+    ]
+  },
+  {
+    "text": "Nuclear factor (NF)-kappa B is a redox sensitive cytosolic transcription factor .",
+    "entities": [
+      {
+        "start_idx": 0,
+        "end_idx": 27,
+        "type": "protein",
+        "entity": "Nuclear factor (NF)-kappa B"
+      },
+      {
+        "start_idx": 33,
+        "end_idx": 79,
+        "type": "protein",
+        "entity": "redox sensitive cytosolic transcription factor"
+      }
+    ]
+  },
+  {
+    "text": "We have previously shown that treatment of Jurkat T cells with phytohemaglutinin ( PHA ) and the phorbol ester , PMA , activated transcription initiation from the IL-3 gene .",
+    "entities": [
+      {
+        "start_idx": 83,
+        "end_idx": 86,
+        "type": "protein",
+        "entity": "PHA"
+      },
+      {
+        "start_idx": 63,
+        "end_idx": 80,
+        "type": "protein",
+        "entity": "phytohemaglutinin"
+      },
+      {
+        "start_idx": 43,
+        "end_idx": 57,
+        "type": "cell_line",
+        "entity": "Jurkat T cells"
+      },
+      {
+        "start_idx": 163,
+        "end_idx": 172,
+        "type": "DNA",
+        "entity": "IL-3 gene"
+      },
+      {
+        "start_idx": 50,
+        "end_idx": 57,
+        "type": "cell_type",
+        "entity": "T cells"
+      }
+    ]
+  },
+  {
+    "text": "The subunits of this heterodimer have been cloned, and NF90 was found to encode a protein containing two domains that are predicted to form motifs capable of binding to double-stranded RNA .",
+    "entities": [
+      {
+        "start_idx": 21,
+        "end_idx": 32,
+        "type": "protein",
+        "entity": "heterodimer"
+      },
+      {
+        "start_idx": 55,
+        "end_idx": 59,
+        "type": "protein",
+        "entity": "NF90"
+      },
+      {
+        "start_idx": 169,
+        "end_idx": 188,
+        "type": "RNA",
+        "entity": "double-stranded RNA"
+      }
+    ]
+  },
+  {
+    "text": "Moreover, induction of G(S)alpha expression increased events distal to the accumulation of cAMP including the phosphorylation of the transcription factor, cAMP response element binding protein and transcriptional activation of cAMP-dependent reporter genes .",
+    "entities": [
+      {
+        "start_idx": 23,
+        "end_idx": 32,
+        "type": "protein",
+        "entity": "G(S)alpha"
+      },
+      {
+        "start_idx": 155,
+        "end_idx": 192,
+        "type": "protein",
+        "entity": "cAMP response element binding protein"
+      },
+      {
+        "start_idx": 227,
+        "end_idx": 256,
+        "type": "DNA",
+        "entity": "cAMP-dependent reporter genes"
+      }
+    ]
+  },
+  {
+    "text": "In MDMs , an upregulation of I kappa B alpha synthesis as well as the appearance of a novel M(r) 40,000 form of I kappa B alpha were also observed.",
+    "entities": [
+      {
+        "start_idx": 3,
+        "end_idx": 7,
+        "type": "cell_type",
+        "entity": "MDMs"
+      },
+      {
+        "start_idx": 29,
+        "end_idx": 44,
+        "type": "protein",
+        "entity": "I kappa B alpha"
+      },
+      {
+        "start_idx": 112,
+        "end_idx": 127,
+        "type": "protein",
+        "entity": "I kappa B alpha"
+      }
+    ]
+  },
+  {
+    "text": "The emergence of nuclear binding proteins was investigated using interleukin-2 sequence specific oligonucleotide probes in the electrophoretic mobility shift assay .",
+    "entities": [
+      {
+        "start_idx": 65,
+        "end_idx": 78,
+        "type": "protein",
+        "entity": "interleukin-2"
+      },
+      {
+        "start_idx": 65,
+        "end_idx": 119,
+        "type": "DNA",
+        "entity": "interleukin-2 sequence specific oligonucleotide probes"
+      },
+      {
+        "start_idx": 17,
+        "end_idx": 41,
+        "type": "protein",
+        "entity": "nuclear binding proteins"
+      }
+    ]
+  },
+  {
+    "text": "We observed that the RXR alpha expression increased during myelomonocytic differentiation , since the highest levels were found in AML samples and in myelomonocytic cell lines having the highest amounts of monocytic precursors .",
+    "entities": [
+      {
+        "start_idx": 21,
+        "end_idx": 30,
+        "type": "protein",
+        "entity": "RXR alpha"
+      },
+      {
+        "start_idx": 206,
+        "end_idx": 226,
+        "type": "cell_type",
+        "entity": "monocytic precursors"
+      },
+      {
+        "start_idx": 150,
+        "end_idx": 175,
+        "type": "cell_line",
+        "entity": "myelomonocytic cell lines"
+      }
+    ]
+  },
+  {
+    "text": "CONCLUSION: Mutated human CIITA constructs are potent suppressors of porcine MHC class II expression .",
+    "entities": [
+      {
+        "start_idx": 26,
+        "end_idx": 31,
+        "type": "protein",
+        "entity": "CIITA"
+      },
+      {
+        "start_idx": 77,
+        "end_idx": 89,
+        "type": "protein",
+        "entity": "MHC class II"
+      },
+      {
+        "start_idx": 12,
+        "end_idx": 42,
+        "type": "DNA",
+        "entity": "Mutated human CIITA constructs"
+      }
+    ]
+  },
+  {
+    "text": "The HIV-1 accessory gene product Vpr can influence viral pathogenesis by affecting viral replication as well as host cell transcription and proliferation .",
+    "entities": [
+      {
+        "start_idx": 33,
+        "end_idx": 36,
+        "type": "protein",
+        "entity": "Vpr"
+      },
+      {
+        "start_idx": 4,
+        "end_idx": 32,
+        "type": "protein",
+        "entity": "HIV-1 accessory gene product"
+      }
+    ]
+  },
+  {
+    "text": "However, analysis of sucrose gradient fractions in the gel retardation assay provided evidence that the LMP promoter -binding proteins form a complex of higher M(r) in EBNA-2 -positive cell extracts .",
+    "entities": [
+      {
+        "start_idx": 104,
+        "end_idx": 116,
+        "type": "DNA",
+        "entity": "LMP promoter"
+      },
+      {
+        "start_idx": 168,
+        "end_idx": 189,
+        "type": "cell_type",
+        "entity": "EBNA-2 -positive cell"
+      },
+      {
+        "start_idx": 104,
+        "end_idx": 134,
+        "type": "protein",
+        "entity": "LMP promoter -binding proteins"
+      },
+      {
+        "start_idx": 168,
+        "end_idx": 174,
+        "type": "protein",
+        "entity": "EBNA-2"
+      }
+    ]
+  },
+  {
+    "text": "Five CIITA mutant constructions were able to down-regulate wild-type CIITA activity .",
+    "entities": [
+      {
+        "start_idx": 69,
+        "end_idx": 74,
+        "type": "protein",
+        "entity": "CIITA"
+      },
+      {
+        "start_idx": 5,
+        "end_idx": 10,
+        "type": "protein",
+        "entity": "CIITA"
+      },
+      {
+        "start_idx": 5,
+        "end_idx": 31,
+        "type": "DNA",
+        "entity": "CIITA mutant constructions"
+      }
+    ]
+  },
+  {
+    "text": "Flow cytometric and morphological analyses demonstrated that the addition of CD70 transfectants to B cell cultures remarkably promoted differentiation into plasma cells in the presence of IL-4 and CD40 signaling .",
+    "entities": [
+      {
+        "start_idx": 197,
+        "end_idx": 201,
+        "type": "protein",
+        "entity": "CD40"
+      },
+      {
+        "start_idx": 156,
+        "end_idx": 168,
+        "type": "cell_type",
+        "entity": "plasma cells"
+      },
+      {
+        "start_idx": 99,
+        "end_idx": 114,
+        "type": "cell_line",
+        "entity": "B cell cultures"
+      },
+      {
+        "start_idx": 188,
+        "end_idx": 192,
+        "type": "protein",
+        "entity": "IL-4"
+      }
+    ]
+  },
+  {
+    "text": "Electrophoretic mobility shift assay , using in vitro translated TR2 orphan receptor with a molecular mass of 67 kilodaltons , showed a specific binding with high affinity (dissociation constant = 9 nM) for this DNA sequence .",
+    "entities": [
+      {
+        "start_idx": 65,
+        "end_idx": 84,
+        "type": "protein",
+        "entity": "TR2 orphan receptor"
+      },
+      {
+        "start_idx": 212,
+        "end_idx": 224,
+        "type": "DNA",
+        "entity": "DNA sequence"
+      },
+      {
+        "start_idx": 110,
+        "end_idx": 124,
+        "type": "protein",
+        "entity": "67 kilodaltons"
+      }
+    ]
+  },
+  {
+    "text": "We have found that the basic domains of all the myogenic factors remain unaltered in rhabdomyosarcomas .",
+    "entities": [
+      {
+        "start_idx": 23,
+        "end_idx": 36,
+        "type": "protein",
+        "entity": "basic domains"
+      },
+      {
+        "start_idx": 48,
+        "end_idx": 64,
+        "type": "protein",
+        "entity": "myogenic factors"
+      }
+    ]
+  },
+  {
+    "text": "By contrast, the expression of other adherence-associated early genes , such as IL-8 and IL-1 beta , was not up-regulated in PBMC of tuberculous patients .",
+    "entities": [
+      {
+        "start_idx": 89,
+        "end_idx": 98,
+        "type": "protein",
+        "entity": "IL-1 beta"
+      },
+      {
+        "start_idx": 80,
+        "end_idx": 84,
+        "type": "protein",
+        "entity": "IL-8"
+      },
+      {
+        "start_idx": 37,
+        "end_idx": 69,
+        "type": "DNA",
+        "entity": "adherence-associated early genes"
+      },
+      {
+        "start_idx": 125,
+        "end_idx": 129,
+        "type": "cell_type",
+        "entity": "PBMC"
+      }
+    ]
+  },
+  {
+    "text": "Increased NF-kappa B activity was observed and this increased activity was blocked by a specific inhibitor of the viral protease .",
+    "entities": [
+      {
+        "start_idx": 10,
+        "end_idx": 20,
+        "type": "protein",
+        "entity": "NF-kappa B"
+      },
+      {
+        "start_idx": 114,
+        "end_idx": 128,
+        "type": "protein",
+        "entity": "viral protease"
+      }
+    ]
+  },
+  {
+    "text": "Interestingly, an inducible footprint between -183 and -196 was consistently observed in Jurkat T cells and CD45RA and CD45R0 T helper subsets upon stimulation with phorbol 12-myristate 13-acetate + phytohemagglutinin ( PMA + PHA ) that was highly sensitive to treatment with corticosteroids .",
+    "entities": [
+      {
+        "start_idx": 226,
+        "end_idx": 229,
+        "type": "protein",
+        "entity": "PHA"
+      },
+      {
+        "start_idx": 89,
+        "end_idx": 103,
+        "type": "cell_line",
+        "entity": "Jurkat T cells"
+      },
+      {
+        "start_idx": 199,
+        "end_idx": 217,
+        "type": "protein",
+        "entity": "phytohemagglutinin"
+      },
+      {
+        "start_idx": 46,
+        "end_idx": 59,
+        "type": "DNA",
+        "entity": "-183 and -196"
+      }
+    ]
+  },
+  {
+    "text": "HIV type 1 protease activation of NF-kappa B within T lymphoid cells .",
+    "entities": [
+      {
+        "start_idx": 34,
+        "end_idx": 44,
+        "type": "protein",
+        "entity": "NF-kappa B"
+      },
+      {
+        "start_idx": 11,
+        "end_idx": 19,
+        "type": "protein",
+        "entity": "protease"
+      },
+      {
+        "start_idx": 52,
+        "end_idx": 68,
+        "type": "cell_type",
+        "entity": "T lymphoid cells"
+      }
+    ]
+  },
+  {
+    "text": "Regulation of the megakaryocytic glycoprotein IX promoter by the oncogenic Ets transcription factor Fli-1 .",
+    "entities": [
+      {
+        "start_idx": 100,
+        "end_idx": 105,
+        "type": "protein",
+        "entity": "Fli-1"
+      },
+      {
+        "start_idx": 18,
+        "end_idx": 57,
+        "type": "DNA",
+        "entity": "megakaryocytic glycoprotein IX promoter"
+      },
+      {
+        "start_idx": 65,
+        "end_idx": 99,
+        "type": "protein",
+        "entity": "oncogenic Ets transcription factor"
+      }
+    ]
+  },
+  {
+    "text": "Inorganic lead activates NF-kappa B in primary human CD4+ T lymphocytes .",
+    "entities": [
+      {
+        "start_idx": 39,
+        "end_idx": 71,
+        "type": "cell_type",
+        "entity": "primary human CD4+ T lymphocytes"
+      },
+      {
+        "start_idx": 25,
+        "end_idx": 35,
+        "type": "protein",
+        "entity": "NF-kappa B"
+      }
+    ]
+  },
+  {
+    "text": "Previous reports have shown that BA -induced overexpression of erythroid genes occurred at the transcriptional level , suggesting the involvement of erythroid transcription factors .",
+    "entities": [
+      {
+        "start_idx": 63,
+        "end_idx": 78,
+        "type": "DNA",
+        "entity": "erythroid genes"
+      },
+      {
+        "start_idx": 149,
+        "end_idx": 180,
+        "type": "protein",
+        "entity": "erythroid transcription factors"
+      },
+      {
+        "start_idx": 159,
+        "end_idx": 180,
+        "type": "protein",
+        "entity": "transcription factors"
+      }
+    ]
+  },
+  {
+    "text": "Tyrosine kinase and cAMP -dependent protein kinase activities in CD40-activated human B lymphocytes .",
+    "entities": [
+      {
+        "start_idx": 20,
+        "end_idx": 50,
+        "type": "protein",
+        "entity": "cAMP -dependent protein kinase"
+      },
+      {
+        "start_idx": 0,
+        "end_idx": 15,
+        "type": "protein",
+        "entity": "Tyrosine kinase"
+      },
+      {
+        "start_idx": 65,
+        "end_idx": 99,
+        "type": "cell_line",
+        "entity": "CD40-activated human B lymphocytes"
+      }
+    ]
+  },
+  {
+    "text": "Here the wild type motif gives efficient binding of p50p50 that again is upregulated in tolerant cells whereas a mutant with a 3' G shows hardly any binding of p50p50 .",
+    "entities": [
+      {
+        "start_idx": 88,
+        "end_idx": 102,
+        "type": "cell_type",
+        "entity": "tolerant cells"
+      },
+      {
+        "start_idx": 52,
+        "end_idx": 58,
+        "type": "protein",
+        "entity": "p50p50"
+      },
+      {
+        "start_idx": 9,
+        "end_idx": 24,
+        "type": "DNA",
+        "entity": "wild type motif"
+      },
+      {
+        "start_idx": 160,
+        "end_idx": 166,
+        "type": "protein",
+        "entity": "p50p50"
+      }
+    ]
+  },
+  {
+    "text": "The PAF -induced up-regulation of HB-EGF mRNA was accompanied by an increase in kappa B binding activity .",
+    "entities": [
+      {
+        "start_idx": 4,
+        "end_idx": 7,
+        "type": "protein",
+        "entity": "PAF"
+      },
+      {
+        "start_idx": 34,
+        "end_idx": 40,
+        "type": "protein",
+        "entity": "HB-EGF"
+      },
+      {
+        "start_idx": 34,
+        "end_idx": 45,
+        "type": "RNA",
+        "entity": "HB-EGF mRNA"
+      }
+    ]
+  },
+  {
+    "text": "Finally, a dominant-negative version of C/EBP beta blocked TNF alpha promoter activation in myeloid cells .",
+    "entities": [
+      {
+        "start_idx": 40,
+        "end_idx": 50,
+        "type": "protein",
+        "entity": "C/EBP beta"
+      },
+      {
+        "start_idx": 59,
+        "end_idx": 68,
+        "type": "protein",
+        "entity": "TNF alpha"
+      },
+      {
+        "start_idx": 92,
+        "end_idx": 105,
+        "type": "cell_type",
+        "entity": "myeloid cells"
+      },
+      {
+        "start_idx": 59,
+        "end_idx": 77,
+        "type": "DNA",
+        "entity": "TNF alpha promoter"
+      }
+    ]
+  },
+  {
+    "text": "These mechanisms include the assembly of higher order nucleoprotein complexes and other protein-protein interactions that enhance the functional specificity of transcriptional regulators in lymphocytes .",
+    "entities": [
+      {
+        "start_idx": 41,
+        "end_idx": 77,
+        "type": "protein",
+        "entity": "higher order nucleoprotein complexes"
+      },
+      {
+        "start_idx": 160,
+        "end_idx": 186,
+        "type": "protein",
+        "entity": "transcriptional regulators"
+      }
+    ]
+  }
+]
