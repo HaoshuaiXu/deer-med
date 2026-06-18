@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "deer"
+version = "0.1.0"
+description = "Faithful reproduction of DEER (flat, Error-Reflection ICL NER) for medical NER (NCBI-Disease)"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Haoshuai Xu" }]
+dependencies = [
+    "numpy",
+]
+
+[project.optional-dependencies]
+# real LLM calls (a urllib fallback is built in, but the openai SDK is the tested path)
+llm = ["openai", "requests"]
+# label-guided retrieval embeddings (a MockEmbedder exists for offline sanity)
+retrieval = ["sentence-transformers", "torch"]
+full = ["openai", "requests", "sentence-transformers", "torch"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

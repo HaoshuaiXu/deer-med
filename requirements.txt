@@ -1,0 +1,10 @@
+# Core (always required)
+numpy
+
+# LLM generation + reflection (a urllib fallback exists, but openai is the tested path)
+openai
+requests
+
+# Label-guided retrieval embeddings (a MockEmbedder exists for offline sanity)
+sentence-transformers
+torch

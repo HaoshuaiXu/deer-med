@@ -1,0 +1,29 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+build/
+dist/
+
+# ---- OS / editor ----
+.DS_Store
+.idea/
+.vscode/
+
+# ---- Secrets ----
+.env
+*.key
+
+# ---- Experiment outputs (large / regenerable) ----
+outs/
+runs/
+logs/
+*.log
+.cache/
+llm_cache/
+embed_cache.json
